@@ -1,0 +1,10 @@
+There is application layer of ChatGpt
+
+Between propt and response 
+that can be used to block some work 
+
+along with your prompt(visible message) 
+some invisible message is also sent to Application 
+
+
+We can also use AI using API 
