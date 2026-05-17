@@ -1,0 +1,13 @@
+There are two type of Models
+
+01. Proprietary Models [runs on some server]
+Open Ai ChatGPT 
+Google Gemini 
+Microsoft Copilot 
+xAI Grok 
+Anthropic Claude 
+
+02. Open Models [runs on your local system ]
+Gemma 
+DeepSeek 
+Meta Llama
