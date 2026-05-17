@@ -1,0 +1,17 @@
+This is detailed course 
+where we will learn about 
+AI- powered Apps and Workflow 
+
+01. RAG, CAG and Finetuning
+02. Agents and Automations
+03. Custom Ai Applications 
+
+Efficient Usage
+01. Chatgpt and Co Features 
+02. Prompt Engineering 
+03. Example and use-cases
+
+Foundation 
+
+01. Using Ai Chatbots and Models 
+02. Understanding Generative AI and LLMs 
