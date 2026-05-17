@@ -1,0 +1,15 @@
+LLM = Token prediction machine
+
+first text is converted into tokens 
+
+and then tokens are converted into vector embedding and 
+after training process LLM is created 
+
+so simply we can understand  as above 
+
+LLM work is to find next possible word 
+with many likelihood value 
+one with max will be selected 
+
+if multiple having same likelihood then anyone can be taken 
+thats why same question answer different on multiple input 
