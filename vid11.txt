@@ -1,0 +1,9 @@
+Behind the scene, all are using LLM 
+here we have input layter , hidden layer and output layer 
+
+thees are trained be taking all text data from internet 
+
+By training we get the correct params 
+
+LLM understand the relation between workds 
+and that help in prediction of future workds and complete sequences 
