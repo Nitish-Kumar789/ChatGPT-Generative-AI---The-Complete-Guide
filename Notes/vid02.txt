@@ -1,0 +1,11 @@
+Here we will learn about Generative AI 
+
+It is AI - creating new content and similar to what a human can produce 
+
+
+LLMs 
+01. AI Chatbots 
+02. AI- powered Applications
+AI Agent & Automations
+RAG Systems 
+Apps using AI 
