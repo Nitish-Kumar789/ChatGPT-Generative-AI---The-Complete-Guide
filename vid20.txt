@@ -1,0 +1,6 @@
+Here we will learn about ChatGPT basics
+
+01. Basic and Advnaced feateures 
+02. Making sense of the different models
+03. Managing promps and chat history 
+04. chatgpt tools 
