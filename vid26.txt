@@ -1,0 +1,6 @@
+ Using Speech As Input
+
+here we can simply dictate our voice to text 
+or in voice mode 
+if we have sth for continous discussoin 
+then we can go for this voice mode 
