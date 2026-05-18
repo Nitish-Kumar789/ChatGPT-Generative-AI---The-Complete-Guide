@@ -1,0 +1,5 @@
+O-3 model are basically reasoning model 
+having chain of thoughts
+
+
+
