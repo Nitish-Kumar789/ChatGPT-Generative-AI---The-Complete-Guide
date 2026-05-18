@@ -1,0 +1,3 @@
+Exploring Google Gemini
+
+Here we can connect Gemini with other google featuers like gmail, youtube and others things 
