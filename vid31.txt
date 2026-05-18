@@ -1,0 +1,5 @@
+ Having ChatGPT Execute Code & QR Code Generation Example
+
+ We can also ask chatgpt 
+ to write and execute the code 
+ cuurrently its only executing the basic python code 
