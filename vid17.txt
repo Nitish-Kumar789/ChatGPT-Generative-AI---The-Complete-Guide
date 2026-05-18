@@ -1,0 +1,4 @@
+Another limitation is of knowledge cutoff
+01.to prevent Ai hallucination
+AI can answer like sorry, I have knowledge till this date. 
+02. To give access to internt 
