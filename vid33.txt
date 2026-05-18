@@ -1,0 +1,5 @@
+Understanding & Configuring Custom Instructions
+
+Here we can customise the chatgpt 
+
+but its better to add Configuration on prompt
