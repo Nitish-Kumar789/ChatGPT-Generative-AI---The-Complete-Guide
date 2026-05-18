@@ -1,0 +1,7 @@
+ Using Canvas Mode
+
+
+ Gives different view 
+ and can edit piece of information in that view 
+
+ generally helpful for long text/codes 
