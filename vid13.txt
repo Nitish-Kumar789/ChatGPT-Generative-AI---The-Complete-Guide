@@ -1,0 +1,14 @@
+Token will be converted into text 
+and after training process it will be converted into foundation model 
+
+and at this stage this is not that good 
+because it will even ask more question 
+
+
+so we go for finetuning then that model will be converted into assitant model 
+
+
+foundation Model + fineTuing Data(demo converstaions) -> fineTuing -> assitance Model 
+good to go now 
+
+NOw we use LLM for demo convesations 

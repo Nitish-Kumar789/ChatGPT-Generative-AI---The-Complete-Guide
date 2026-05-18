@@ -1,0 +1,16 @@
+so the thing is that 
+LLM are still the token prediction machine 
+but with the thought processing the are able to think of what will be likelihood of next token 
+and later token will be convereted to work 
+token mapping is a a bit different 
+
+for every word its different 
+if one letter also changes to uppercase token valeu will change 
+for every symbolt its different 
+
+
+here we have also reinforcement learning 
+that can be done by some evalution model or some humna
+
+fintued instruct model -> reinforcement learning -> reasoning modal 
+                            evalution Model 
