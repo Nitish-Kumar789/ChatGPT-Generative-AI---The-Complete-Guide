@@ -1,0 +1,4 @@
+Using Web Search in ChatGPT
+
+We can force to use websearch 
+but mainly they are capable enough to think that this prompt requires web search feature
