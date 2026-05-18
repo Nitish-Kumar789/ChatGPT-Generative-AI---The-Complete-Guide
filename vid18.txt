@@ -1,0 +1,8 @@
+so the thing is that 
+there might be the chances if you ask some recent question 
+after llm has been trained
+
+Chatgpt may inject some invisible propmt to websearch that question 
+
+
+and the result will be again filtered out by the chatgpt and will be shown 
