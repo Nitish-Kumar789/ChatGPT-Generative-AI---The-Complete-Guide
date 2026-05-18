@@ -1,0 +1,12 @@
+so the thing is that 
+
+here comes the concept of context window 
+
+so  let suppose you upload the entire pdf 
+
+then model try to find realtion between 
+first word and last word
+that may work better or not 
+based on Ai model that you are using 
+some have large context window length 
+and some have small 
