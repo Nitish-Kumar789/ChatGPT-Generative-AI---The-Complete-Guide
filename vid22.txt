@@ -1,0 +1,3 @@
+we can use temporaray Chat 
+if we don't want to take account of previous chat context 
+or don't want to train the Ai model 
