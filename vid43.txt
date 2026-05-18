@@ -1,4 +1,4 @@
- Gemini, Web Search & "Double Checking"
+Gemini, Web Search & "Double Checking"
 
  It has great feature of web search and Double checking 
 
