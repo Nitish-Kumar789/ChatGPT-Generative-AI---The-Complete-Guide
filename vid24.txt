@@ -1,0 +1,8 @@
+Writing Prompts - The Basics
+
+so what will happen here 
+
+if you follow up 
+then new question and entire previous question 
+will be sent 
+so context window will be get fuller and fuller 
