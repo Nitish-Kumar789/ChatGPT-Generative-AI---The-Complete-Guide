@@ -1,0 +1,7 @@
+For prompt Engineering,
+
+Its always a best advice that 
+after getting the result 
+just manually refine it 
+no matter how good your prompt is 
+I
