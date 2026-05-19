@@ -1,0 +1,14 @@
+so the thing is here 
+for a good prompt? 
+
+provid some good helpul context 
+
+like assign some role 
+add some relevant information 
+put constraints 
+
+keep prompt short 
+
+if you have to perform multiple complex task 
+
+do it in steps 
