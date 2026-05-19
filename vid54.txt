@@ -1,0 +1,3 @@
+Hosting Open Models
+
+we can host model on aws or amazon bedrock 
