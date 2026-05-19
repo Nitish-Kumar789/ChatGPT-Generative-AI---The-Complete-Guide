@@ -1,0 +1,3 @@
+ Software Options For Running LLMs Locally & Installing LM Studio
+
+ We can run open model into LM Studio
