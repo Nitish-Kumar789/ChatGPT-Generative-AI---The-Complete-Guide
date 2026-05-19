@@ -1,0 +1,15 @@
+Why Would You Use Open LLMs?
+
+
+
+ChatGPT and Co - disadvantes
+
+cost: 
+for few need to paly 
+availabilty 
+requried internet connect 
+server may go offline 
+
+privacy 
+you are sharint data with the model providers 
+usage restrictions may apply 
