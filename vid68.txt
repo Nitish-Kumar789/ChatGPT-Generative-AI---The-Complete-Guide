@@ -1,0 +1,3 @@
+Finetuning vs Few-Shot Prompting
+
+Finetuning simply means adjusting weights and values 
