@@ -1,0 +1,4 @@
+ Prompt Engineering Goals
+
+ so here thing is that 
+ we aim for good output and good format 
