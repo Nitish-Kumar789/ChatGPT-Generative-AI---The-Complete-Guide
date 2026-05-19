@@ -1,0 +1,4 @@
+There are two type of model 
+proprietery model 
+open model  - generally less capable because of less parameter 
+
