@@ -1,0 +1,6 @@
+Use Prompt Templates
+Throughout this section, you'll learn about key prompt engineering techniques.
+
+In addition to hand-crafting your prompts, using prompt templates can be another efficient way of quickly getting good results.
+
+That's why we also built https://promptsdb.ai/ as a (totally free, no signup required!) resource to browse and use hundreds (and growing!) prompt templates - for text analysis, generation, image generation and much more!
