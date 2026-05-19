@@ -1,0 +1,6 @@
+Zero-, One- & Few-Shot Prompting
+
+in few shot 
+
+we give some example with some delimter 
+in zero shot, there is no as such example
