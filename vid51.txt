@@ -1,0 +1,6 @@
+Hardware Requirements & Quantization
+
+
+Quantization helps to reduce memory requried to run the model 
+
+specaly Vgpu is used as it is fast 
