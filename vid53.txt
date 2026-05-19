@@ -1,0 +1,5 @@
+Example Use-Cases: Text Summarization & Data Analysis
+
+so with open model 
+we can deal offline
+and we can do few tex Summarization and data analysis
