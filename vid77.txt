@@ -1,0 +1,6 @@
+self-reflective Prompting
+-------------------------
+
+So here we will analyse the output 
+after getting the output 
+we may ask for what's good what's bad 
