@@ -1,0 +1,17 @@
+ AI Image Generation - An Overview
+ ------------------------
+
+ There are few models 
+ which also text, image and video 
+
+ there are few models 
+ that allow only images 
+ like 
+ midjourney 
+
+ ther are few open modesl 
+ Flux, stable diffusion 
+
+ and there are intergrated tools 
+ Ai is intergrated just aksing for prompt 
+ like adobe photoshop 
