@@ -1,0 +1,11 @@
+ Chain-of-Thought Prompting
+
+ There might the chane that for mathematical problem 
+ it does'nt give the correct solution 
+ becaues at the end its Token generation machine
+
+ but because of its training on maths 
+ it may be give solution 
+
+ so as for such 
+ its better to prompt for : show me step by step 
