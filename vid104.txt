@@ -1,0 +1,4 @@
+. A First Glimpse At Midjourney
+
+Here we have to buy the model 
+and then using discord we can add prompt 
