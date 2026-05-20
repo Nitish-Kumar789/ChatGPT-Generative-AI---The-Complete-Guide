@@ -1,0 +1,3 @@
+This is also a very good practice
+to ask gpt tools to ask questions for further clarification 
+so that answer will be personalised 
