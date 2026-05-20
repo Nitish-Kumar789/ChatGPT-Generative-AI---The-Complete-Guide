@@ -1,0 +1,3 @@
+Contextual Prompting & Including Relevant Data + Information
+
+There might be the chance that you Ai start halluncinating becaue of context window limit reached 
