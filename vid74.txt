@@ -1,0 +1,51 @@
+Split Complex Problems Into Simpler Ones
+When writing prompts, it's not just about the prompt technique or text. It's also about the complexity of the task or question.
+
+If you're not happy with the results produced by an AI / LLM, try splitting up the problem into multiple smaller & simpler sub-problems.
+
+For example, instead of asking:
+
+"
+You are an expert YouTube video creator.
+ 
+Write me a script for a video that explains the difference between AI and ML.
+"
+You could create multiple prompts (and use them in the same chat as follow-up messages OR in different chats):
+
+"
+You are an expert YouTube video creator.
+ 
+I'm working on a script that aims to explain the difference between AI and ML.
+ 
+Please write a good, catchy introduction for such a video.
+"
+<LLM answer>
+
+"
+Great, thank you!
+ 
+Now please write a concise script for explaining the term AI to a beginner audience that's not necessarily tech-savvy.
+"
+And so on ...
+
+-----------------
+
+so understanding is that 
+let suppose you are solving a coding question 
+
+first ask for intuition 
+then steps 
+then code 
+then dry run on test cases 
+
+
+so there should be step by step 
+don't throw all at once 
+
+
+no matter how good you are at prompt 
+
+better to go by step 
+or use different chat window 
+
+thats one thing 
