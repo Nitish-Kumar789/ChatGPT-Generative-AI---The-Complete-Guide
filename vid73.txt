@@ -1,0 +1,7 @@
+ Reasoning Models & Chain-of-Thought Prompting
+
+If model that is being used is Reasoning model 
+then no need to add prompt for Chain of Thought for logical problem 
+
+if that is not Reasoning model 
+in that case you add prompt for Chain of Thought
