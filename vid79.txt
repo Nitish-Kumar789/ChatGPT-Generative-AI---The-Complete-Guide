@@ -1,0 +1,6 @@
+Controlling The Output Format
+------------------------------
+so apart from input 
+we can also control the output 
+we can ask output in a particular manner 
+we can also specify the template used for outputting details 
