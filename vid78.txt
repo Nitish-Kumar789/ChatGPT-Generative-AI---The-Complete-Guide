@@ -1,0 +1,4 @@
+Negative Prompting
+------------------
+For this case, we will mention that these case 
+shouldn't be covered 
