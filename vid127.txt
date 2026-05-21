@@ -1,0 +1,7 @@
+Performing Data Analysis with AI
+
+so what you can do here is that 
+you can always ask for data analysis 
+one thing to note down
+: These tools are not very good at Math 
+: Instead they will generate some python Script and then will execute it to do operation 
