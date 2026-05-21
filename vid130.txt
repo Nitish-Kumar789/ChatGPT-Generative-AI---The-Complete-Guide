@@ -1,0 +1,5 @@
+there is always a chance of hallucination 
+if correct information is not given 
+to gpt modesl 
+
+so its always a good practice to cross verify the results 
