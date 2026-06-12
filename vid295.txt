@@ -1,0 +1,19 @@
+RAG - Retrieval Augmented Generation 
+
+here user first ask question 
+based on the prompt ai model looks into relevant document to anwer the prompt 
+
+CAG - cache/context Augmented Generation
+
+here user first feed the relevant documents 
+then user ask the question 
+
+cag is generally faster than the rag model 
+
+few shot prompting - in this few shot are provided beforehand 
+based on the observation Ai Model answer the question 
+
+these are related terms only 
+
+RAG and CAG - automated process to enrich prompts with data
+Few Shot Prompting - manual process to enrich prompts with data 
