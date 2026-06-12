@@ -1,0 +1,5 @@
+We can use make our own customised AI Tool using n8n engine 
+
+for that we have to upload files on some server may be google-drive or amazon s3 bucket 
+and after that atttach the remainging steps 
+that need to be performed 
