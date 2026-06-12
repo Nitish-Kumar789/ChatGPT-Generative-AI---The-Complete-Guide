@@ -1,0 +1,12 @@
+Fine-tuning means further training a pre-trained (base) model on a custom dataset so that its behavior better matches a specific use case. During fine-tuning, the model's weights are adjusted based on the new training data.
+
+It can be thought of as creating a more specialized or personalized AI for a particular task, domain, style, or workflow.
+
+With OpenAI, you can take a base model and fine-tune it using your own training examples according to your requirements.
+
+For example, you might fine-tune a model to:
+
+Answer customer support questions in your company's style.
+Generate outputs in a specific format.
+Follow domain-specific terminology.
+Perform a specialized classification task.
