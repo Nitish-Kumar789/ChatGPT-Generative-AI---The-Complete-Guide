@@ -1,0 +1,14 @@
+In this module, we learned about:
+
+RAG (Retrieval-Augmented Generation)
+CAG (Context-Augmented Generation)
+Few-Shot Prompting
+Fine-Tuning
+
+All of these techniques are used to improve the performance of Large Language Models (LLMs), but they do so in different ways.
+
+RAG/CAG provide external knowledge to the model at inference time.
+Few-Shot Prompting teaches the model how to perform a task using examples in the prompt.
+Fine-Tuning modifies the model's weights through additional training to specialize its behavior.
+
+These approaches are related because they all help adapt a base model to specific requirements, but they operate at different stages and have different trade-offs in terms of cost, complexity, and flexibility.
