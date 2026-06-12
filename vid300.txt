@@ -1,0 +1,33 @@
+Automation & Agents
+
+Building Automated Ai - Powered Workflows 
+-> AI Automation vs Ai Agents 
+-> Building Agents without writing code 
+-> Building Agents with code 
+
+------------
+
+1. Building Automated AI-Powered Workflows
+Using AI to automate repetitive tasks and business processes.
+Connecting AI with applications, databases, APIs, and tools.
+Creating end-to-end workflows with minimal human intervention.
+2. AI Automation vs AI Agents
+AI Automation	AI Agents
+Follows predefined rules and workflows	Makes decisions based on goals
+Predictable execution path	Dynamic execution path
+Reactive	Proactive
+Best for repetitive tasks	Best for complex multi-step tasks
+Example: Auto-summarizing emails	Example: Researching a topic and taking actions
+3. Building Agents Without Writing Code
+Using no-code/low-code platforms.
+Defining goals, tools, and workflows through visual interfaces.
+Examples include workflow automation platforms and agent builders.
+Suitable for rapid prototyping and business users.
+4. Building Agents With Code
+Developing custom agents using programming languages such as Python or JavaScript.
+Integrating LLMs, APIs, databases, memory, and tools.
+Implementing agent logic, planning, reasoning, and tool usage.
+Provides maximum flexibility and customization.
+Summary
+
+Automation focuses on executing predefined workflows efficiently, while Agents focus on achieving goals by reasoning, making decisions, and using tools. Agents can be built either through no-code platforms or through custom code, depending on the level of flexibility required.
