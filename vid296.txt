@@ -1,0 +1,5 @@
+In fine-tuning, we start with a base model and train it further on a specific dataset so that it becomes specialized for a particular task, domain, or style. This training can take hours to days depending on the model size and data volume.
+
+However, fine-tuning is not usually the best way to keep a model up to date. If the underlying information changes frequently, retraining or re-fine-tuning would be required, which can be expensive and time-consuming.
+
+Instead, for up-to-date information, systems typically use techniques such as RAG (Retrieval-Augmented Generation), CAG (Context-Augmented Generation), or few-shot prompting. Among these, RAG is the most common approach because it allows the model to access the latest information from external documents or databases without retraining.
