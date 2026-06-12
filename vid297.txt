@@ -1,0 +1,24 @@
+RAG & CAG vs Finetuning
+
+RAG / CAG / Few-Shot Prompting
+Knowledge is provided at inference time rather than stored in the model weights.
+The relevant data is included in the prompt (directly or via retrieval).
+RAG: Uses embeddings and a vector database to retrieve relevant information before generating a response.
+CAG: Required documents are loaded directly into the context window.
+Few-shot prompting: Provides examples in the prompt to guide behavior; it is mainly for task adaptation, not knowledge storage.
+Information must be sent repeatedly whenever it is needed.
+Higher token usage leads to higher inference costs.
+Easy to update knowledge—just update the documents or context; no retraining needed.
+Fine-Tuning
+A more complex setup process.
+Requires training the base model on task-specific data.
+Knowledge or behavior becomes part of the model's weights.
+No need to include the same instructions/examples in every prompt.
+Lower prompt-token usage and often lower inference cost for repetitive tasks.
+Updating knowledge requires additional fine-tuning or retraining.
+Best for teaching a model a specific style, format, workflow, or domain behavior rather than frequently changing facts.
+Rule of Thumb
+Changing knowledge (documents, policies, latest data) → RAG/CAG.
+Changing behavior (tone, format, task-specific patterns) → Fine-tuning.
+Small number of examples needed → Few-shot prompting.
+Frequently repeated instructions causing large prompts → Consider fine-tuning.
