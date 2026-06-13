@@ -1,0 +1,7 @@
+In AI Automation, there is a predefined workflow consisting of a series of repetitive tasks.
+
+The workflow follows a fixed sequence of steps.
+It can be triggered manually, on a schedule, or by an event (e.g., receiving an email or form submission).
+Behind the scenes, one or more AI agents or LLMs may be used to perform specific tasks.
+The overall process remains workflow-driven and predictable.
+AI automation is best suited for repetitive business processes and routine operations.
