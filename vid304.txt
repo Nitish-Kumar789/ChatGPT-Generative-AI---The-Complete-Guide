@@ -1,0 +1,6 @@
+We can build no-code AI automations and agents using tools like n8n.
+
+n8n provides a visual workflow builder, reducing the need for coding.
+It can connect AI models, APIs, databases, and other applications.
+n8n offers both a self-hosted free version and paid cloud plans.
+It is commonly used for AI automation, workflow orchestration, and agent development.
