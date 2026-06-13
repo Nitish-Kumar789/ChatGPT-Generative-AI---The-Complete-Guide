@@ -1,0 +1,19 @@
+Building Complex Prompts with File & Documentation Context
+
+Open Cursor Chat using Ctrl/Cmd + L.
+Use the @ symbol to reference specific files, folders, code snippets, or other project resources.
+You can include multiple files in the same prompt to provide additional context.
+Cursor can also use referenced documentation (when available) to better understand frameworks, libraries, and APIs.
+After providing the relevant context, you can ask Cursor to perform complex tasks such as code generation, refactoring, debugging, or feature implementation.
+
+Examples:
+
+@UserService.ts @AuthController.ts Add JWT token refresh functionality
+@package.json @vite.config.js Upgrade the project to the latest Vite version
+@React Documentation Refactor this component according to React best practices
+
+By explicitly referencing files and documentation, Cursor receives more context and can generate more accurate and relevant responses.
+
+Simple Summary
+
+Use Ctrl/Cmd + L to open Cursor Chat, then use @ to reference files, folders, or documentation. This provides additional context, allowing Cursor to handle more complex development tasks accurately.
