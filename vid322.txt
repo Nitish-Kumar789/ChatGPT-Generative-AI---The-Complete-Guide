@@ -1,0 +1,14 @@
+Getting Started with GitHub Copilot Chat
+
+Install the GitHub Copilot and GitHub Copilot Chat extensions in your IDE (such as VS Code).
+Sign in with your GitHub account and ensure Copilot is enabled.
+Open the Copilot Chat panel from the sidebar.
+You will get a side-by-side chat interface directly inside the editor.
+You can ask questions, generate code, explain code, debug issues, and get development assistance without leaving the IDE.
+This makes it easy to work on code and interact with AI in the same environment.
+
+Copilot Chat helps reduce context switching and provides a more seamless development experience.
+
+Simple Summary
+
+Install the GitHub Copilot Chat extension, open the chat panel, and use the side-by-side interface to ask coding questions, generate code, and resolve issues directly within your IDE.
