@@ -1,0 +1,4 @@
+Moduel Summary
+
+Using Ai is good as it speed up the development process 
+but answer always need manual review 
