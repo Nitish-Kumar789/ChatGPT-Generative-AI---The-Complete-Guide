@@ -1,0 +1,22 @@
+Explaining Code with GitHub Copilot Chat
+
+Select the code that you want to understand.
+Open GitHub Copilot Chat.
+You can use commands such as /explain to ask Copilot to explain the selected code.
+Copilot will analyze the code and provide a detailed explanation of its functionality, logic, and flow.
+
+Another way is:
+
+Select the code.
+Right-click and choose a Copilot-related action (if available in your IDE).
+Or use the Copilot Chat interface to ask for an explanation of the selected code.
+
+This is especially useful when:
+
+Understanding unfamiliar codebases.
+Learning new programming concepts.
+Reviewing legacy code.
+Onboarding to a new project.
+Simple Summary
+
+Select the code and use GitHub Copilot Chat (for example, with /explain) to get a detailed explanation of what the code does. This makes it easier to understand and learn from existing code.
