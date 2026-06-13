@@ -1,0 +1,12 @@
+Introducing Cursor IDE (AI-First IDE)
+
+Cursor is an AI-powered code editor built on top of the same foundation as Visual Studio Code.
+Its interface is very similar to VS Code, making it easy for existing VS Code users to adopt.
+Many VS Code extensions, themes, and settings can be imported into Cursor.
+Cursor integrates AI features directly into the development workflow, such as code generation, editing, refactoring, and codebase understanding.
+
+Cursor can use different AI models depending on the configuration and subscription plan. Historically it has supported models from OpenAI and other providers. The specific model used may vary over time and by user settings.
+
+Simple Summary
+
+Cursor is an AI-first IDE built on the VS Code ecosystem. It looks and feels similar to VS Code, supports many VS Code extensions, and provides built-in AI features to help developers write, understand, and modify code more efficiently.
