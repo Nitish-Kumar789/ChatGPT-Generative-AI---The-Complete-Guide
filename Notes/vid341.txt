@@ -1,0 +1,25 @@
+Running AutoGPT
+
+Step 1: Create and activate a Python virtual environment inside the AutoGPT project folder.
+
+python -m venv venv
+
+Then activate it:
+
+Windows
+
+venv\Scripts\activate
+
+Step 2: Run AutoGPT using the provided startup script.
+
+.\run.bat
+The first time you run it, the script may install or download the required dependencies automatically.
+It will also verify the project configuration and environment settings.
+Once the setup is complete, AutoGPT will start and be ready to accept tasks.
+Note
+
+The exact commands may vary depending on the AutoGPT version and operating system, so it is always a good idea to check the project's documentation.
+
+Simple Summary
+
+Create and activate a virtual environment inside the AutoGPT folder, then run .\run.bat. The script will install any required dependencies and start AutoGPT.
