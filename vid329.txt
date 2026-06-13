@@ -1,0 +1,20 @@
+Using Cursor for Chat & Code Generation
+
+Cursor provides built-in AI features for both chatting and code generation.
+
+Ctrl/Cmd + L → Opens the AI Chat panel, where you can ask questions, explain code, debug issues, and discuss implementation ideas.
+Ctrl/Cmd + K → Opens the inline code generation/editing interface, allowing you to generate, modify, or refactor code directly in the editor.
+
+In both cases, you can provide prompts describing what you want, and Cursor will generate suggestions based on the prompt and code context.
+
+Important Note:
+
+Cursor is most effective for developers who already have some programming knowledge.
+
+It can significantly increase productivity.
+It helps with code generation, debugging, and codebase navigation.
+However, users should still be able to review, understand, and validate the generated code.
+AI-generated code should not be accepted blindly.
+Simple Summary
+
+Cursor offers AI chat (Ctrl/Cmd + L) and AI code generation/editing (Ctrl/Cmd + K). While it makes development faster, it is best suited for users who already have a basic understanding of programming and can review the generated code.
