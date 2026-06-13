@@ -1,0 +1,22 @@
+In code-based AI agents, when making an API call to the LLM, we typically provide a list of available tools (functions).
+
+Tools are usually passed as an array of function definitions.
+Each tool contains:
+Function name
+Description
+Input parameters
+Parameter descriptions and types
+
+The description is very important because it helps the AI understand:
+
+What the function does
+When it should be used
+What each input parameter represents
+
+Based on the user's prompt, the AI analyzes the available tool descriptions and decides whether a tool should be called and which parameters should be passed.
+
+If the descriptions are unclear or missing, the model may choose the wrong tool or provide incorrect inputs.
+
+Simple Summary
+
+When building AI agents with code, we expose tools/functions to the LLM. Each tool should have a clear name, description, and parameter definitions. The descriptions help the AI understand the purpose of the tool and how to use it correctly.
