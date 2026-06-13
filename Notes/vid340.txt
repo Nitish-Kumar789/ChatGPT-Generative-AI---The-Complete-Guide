@@ -1,0 +1,8 @@
+Configuring AutoGPT
+
+It is advisable to open the AutoGPT project folder in Visual Studio Code or another code editor.
+Locate the environment template file (commonly named .env.template, .env.example, or similar, depending on the version).
+Create a new .env file by copying or renaming the template file as instructed by the documentation.
+Open the .env file and locate the variable for the OpenAI API key (for example, OPENAI_API_KEY).
+Paste your OpenAI API key as the value of that variable.
+Save the file and continue with the remaining setup steps.
