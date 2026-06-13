@@ -1,0 +1,18 @@
+Fixing Runtime Errors with Cursor
+
+Cursor can assist with debugging both simple and complex issues.
+If you encounter a runtime error, you can provide the error message, stack trace, or relevant code to Cursor.
+Cursor can analyze the problem, explain the root cause, and suggest fixes.
+You can also ask Cursor to investigate issues across multiple files if the error involves different parts of the codebase.
+
+In many cases:
+
+Cursor can read terminal output and error logs.
+You can paste terminal errors into the chat and ask for a fix.
+Cursor may suggest code changes, dependency updates, configuration fixes, or terminal commands to resolve the issue.
+
+Always review and test the suggested fix before applying it.
+
+Simple Summary
+
+If you encounter a runtime error, provide the error details to Cursor or ask it to analyze the terminal output. Cursor can help identify the cause and suggest code changes or commands to fix the issue.
