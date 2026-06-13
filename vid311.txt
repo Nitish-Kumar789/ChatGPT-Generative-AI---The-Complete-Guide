@@ -1,0 +1,17 @@
+Here we will see in detail how tool calling works in AI agents.
+
+A tool may or may not be used for a given user request.
+The AI model first analyzes the prompt and determines whether any tool is required.
+If no tool is needed, the model can generate the response directly.
+If a tool is needed, the model can call one or more tools.
+Multiple tools may be called sequentially or in combination to complete a task.
+The final response is generated after the tool results are processed.
+
+For example:
+
+"What is 2 + 2?" → No tool call required.
+"Search the latest AI news." → Search tool may be called.
+"Search the latest AI news and save it to S3." → Search tool + Storage tool may be called.
+Key Point
+
+Tool usage is dynamic. The AI decides whether to call no tool, one tool, or multiple tools based on the user's request.
