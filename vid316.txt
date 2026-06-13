@@ -1,0 +1,22 @@
+How GitHub Copilot Works & Can Be Used
+
+As you open and edit files, GitHub Copilot analyzes the code in the current file and relevant project context.
+Based on the code and comments you write, it generates code suggestions and completions.
+These suggestions appear inline in the editor.
+Pressing the Tab key (or the configured accept key) accepts the suggestion and inserts it into the code.
+
+Another way to use Copilot is:
+
+Open the Code Completions or Copilot Suggestions panel.
+Review multiple suggested implementations.
+Choose the most suitable suggestion.
+Click Accept (or use the keyboard shortcut) to insert the selected code.
+
+Copilot can help with:
+
+Code completion
+Function generation
+Boilerplate code
+Refactoring suggestions
+Test generation
+Documentation and comments
