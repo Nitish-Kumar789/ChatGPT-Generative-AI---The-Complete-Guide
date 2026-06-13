@@ -1,0 +1,13 @@
+Improving Suggestions via Function Names
+
+GitHub Copilot performs particularly well when generating functions.
+
+If you provide a clear and descriptive function name, Copilot can often infer the intended functionality and generate a relevant implementation.
+Meaningful function names provide strong context, leading to higher-quality suggestions.
+In many cases, Copilot can generate most or all of the function body automatically.
+
+Therefore, we can leverage GitHub Copilot to speed up function creation and reduce boilerplate coding effort.
+
+Simple Summary
+
+GitHub Copilot excels at generating functions. By using clear and descriptive function names, we can provide better context and obtain more accurate code suggestions, making development faster and more efficient.
