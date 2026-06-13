@@ -1,0 +1,20 @@
+Installing AutoGPT
+
+There are multiple ways to set up AutoGPT, including Docker and a Git-based installation.
+
+In this setup, we will use Git:
+
+Install Git if it is not already installed.
+Open a terminal in the directory where you want to download the project.
+Clone the AutoGPT repository:
+git clone <repository-url> <folder-name>
+The last argument is optional and specifies the local folder name where the repository will be downloaded.
+Navigate to the cloned project directory:
+cd <folder-name>
+Follow the project's setup instructions to install dependencies and configure environment variables.
+Example
+git clone https://github.com/Significant-Gravitas/AutoGPT.git AutoGPT
+cd AutoGPT
+Simple Summary
+
+AutoGPT can be installed using Docker or Git. In the Git-based approach, open a terminal, clone the repository, optionally specify a folder name, navigate to the project directory, and then complete the remaining setup steps.
