@@ -1,0 +1,19 @@
+In an AI Automation workflow, an AI Agent can be integrated with multiple tools and services.
+
+Examples:
+
+OpenAI Chat Model (LLM)
+Simple Memory / Conversation History
+Amazon Web Services S3 for storage
+SERP API for web search
+Databases, email services, APIs, etc.
+
+The agent is aware of the tools that have been exposed to it and understands when each tool can be used.
+
+Based on the user's prompt and the task at hand, the agent decides:
+
+Which tool to use
+When to use it
+Whether a tool is needed at all
+
+Not every available tool will be used for every request. The agent selects only the tools that are relevant to accomplishing the given task.
