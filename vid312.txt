@@ -1,0 +1,22 @@
+Here we will learn about Developer AI Tools that go beyond traditional chat interfaces like ChatGPT.
+
+Examples include:
+
+GitHub Copilot
+GitHub Copilot Chat
+Cursor
+
+These tools are designed specifically for software development and can help with:
+
+Code generation
+Code completion
+Debugging
+Refactoring
+Explaining code
+Generating tests and documentation
+
+Unlike ChatGPT, these tools are integrated directly into the developer workflow and can interact with the codebase more effectively.
+
+Simple Summary
+
+In this section, we will explore Developer AI Tools such as GitHub Copilot, GitHub Copilot Chat, and Cursor IDE, which help developers write, understand, and maintain code more efficiently.
