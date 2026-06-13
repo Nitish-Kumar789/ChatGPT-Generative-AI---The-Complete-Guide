@@ -1,0 +1,17 @@
+Generating Unit Tests with GitHub Copilot Chat
+
+Select the function or code you want to test.
+Open GitHub Copilot Chat.
+Ask Copilot to generate unit tests, or use a Copilot action such as "Generate Tests" if available in your IDE.
+You can also provide additional instructions, such as the testing framework to use (e.g., Jest, Vitest, Mocha, or PyTest).
+Copilot will generate test cases covering the expected behavior of the code.
+Review the generated tests and make any necessary adjustments.
+
+Depending on the IDE and workflow:
+
+Copilot may suggest the tests directly in the chat.
+It may create or suggest a separate test file.
+You may need to copy the generated tests into a new test file manually.
+Simple Summary
+
+Select the code, ask GitHub Copilot Chat to generate unit tests, optionally specify the testing framework, and Copilot will create test cases that can be added to a test file and used to validate the code.
