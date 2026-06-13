@@ -1,0 +1,7 @@
+Here, we use n8n to build AI automations and agents.
+
+n8n itself can be used for free, especially when self-hosted.
+However, many integrations and external services used within n8n may have their own usage limits and costs.
+For example, if we use OpenAI models or a search service such as SERP APIs, we may need to pay once we exceed the free tier or usage limits.
+We can use services like Amazon Web Services S3 (Simple Storage Service) buckets to store files, results, logs, or other workflow data.
+We can also add memory to our AI workflows, such as conversation history, user preferences, or previous outputs, so the agent can maintain context across interactions.
