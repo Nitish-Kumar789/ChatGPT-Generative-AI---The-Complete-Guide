@@ -1,0 +1,7 @@
+AutoGPT Overview & Prerequisites
+
+AutoGPT is an open-source AI agent project available on GitHub.
+You can download or clone the entire codebase and run it locally.
+AutoGPT is an actively evolving project, so you may encounter bugs, limitations, or changes between versions.
+To use AutoGPT, you typically need access to an LLM provider API.
+Many setups use models from OpenAI, which generally require an API key and are billed based on usage.
