@@ -1,0 +1,16 @@
+AI Automation vs AI Agents
+
+AI Automation
+Used for simpler, predefined, and repetitive tasks.
+AI involvement is limited.
+Follows fixed workflows and rules.
+Example: Auto-replying to emails or summarizing documents.
+AI Agents
+Used for complex and dynamic tasks.
+AI involvement is much higher.
+Goal-oriented and capable of making decisions.
+Can plan, reason, and use tools to achieve an objective.
+Example: Researching a topic, analyzing findings, and generating a report.
+One-line Summary
+
+AI Automation is workflow-based, whereas AI Agents are goal-based.
