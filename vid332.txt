@@ -1,0 +1,23 @@
+Changing Code with Cursor
+
+Cursor can help with both simple and complex code modifications.
+When multiple files are open, Cursor can use the surrounding project context to better understand the codebase.
+You can ask Cursor to perform complex tasks such as:
+Refactoring code
+Adding new features
+Updating imports
+Modifying code across multiple files
+Creating new components or modules
+Cursor analyzes the relevant files and generates the required changes based on your prompt.
+
+For example, you might ask:
+
+"Move this logic into a separate service file and update all imports."
+"Convert this component to TypeScript."
+"Add validation to the form and update related files."
+
+Because Cursor has access to the project context, it can often make coordinated changes across multiple files more effectively than a standalone chat interface.
+
+Simple Summary
+
+Cursor can use the context of multiple open files to understand your project. This allows you to request complex changes, such as updating imports, refactoring code, or implementing features across multiple files.
