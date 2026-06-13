@@ -1,0 +1,14 @@
+The same AI agent behavior can be implemented either through no-code platforms or by writing code directly.
+
+An AI agent can have access to multiple tools.
+These tools are exposed to the agent by the developer.
+Examples include web search, memory, databases, storage systems, APIs, calculators, and LLMs.
+The agent is aware of the available tools and their capabilities.
+When given a task, the agent decides which tool is required.
+The agent does not necessarily use every available tool; it only requests the tools that are relevant to the current task.
+
+For example, if a user asks for the latest news, the agent may use a search tool. If the user asks about a previous conversation, it may use memory. If neither is needed, the agent can respond directly using the LLM.
+
+Key Takeaway
+
+An AI agent can be connected to multiple tools, but it selectively uses only the tools needed to accomplish the user's goal.
