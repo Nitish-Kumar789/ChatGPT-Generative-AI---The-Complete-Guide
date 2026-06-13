@@ -1,0 +1,30 @@
+Optional: Setting Up n8n Locally
+As mentioned in the previous lecture, you can skip this lecture if you already went through the RAG / CAG section - because you already learned how to set up n8n locally there.
+
+Alternatively, you can also use their (paid) cloud solution.
+
+In case you skipped the previous section or want to go through the setup process again, you find the details below.
+
+The recommended way of running n8n locally is via a tool called "Docker".
+
+Docker is a "container management" tool that allows you to run pre-defined "application environments" on any machine. These environments are stored in & distributed as "containers".
+
+n8n built such a container that includes everything that's needed to run it (n8n) on any machine.
+
+That's why you first need to install Docker - for that you can follow the official installation instructions which you find here: 
+
+Windows
+
+Mac
+
+Linux
+
+Once Docker is installed, you can follow the instructions you find on the n8n setup page: https://docs.n8n.io/hosting/installation/docker/.
+
+In the end, you only have to run these two commands (in your terminal / command line):
+
+docker volume create n8n_data
+docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
+Thereafter, you can visit http://localhost:5678 to view the n8n dashboard.
+
+You will need to create an account but this account will only be stored locally - you can use any fantasy email address you want (you do need to remember your email and password, though - you'll need it for logging into your local n8n environment).
