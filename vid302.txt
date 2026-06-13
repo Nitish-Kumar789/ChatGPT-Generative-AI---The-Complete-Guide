@@ -1,0 +1,15 @@
+AI tools use Large Language Models (LLMs) that generate responses token by token.
+
+When a user provides a prompt, the AI tool does not always send only the user's text to the model. It may also include additional hidden context, such as:
+
+System instructions
+Developer instructions
+Conversation history
+Retrieved information (RAG)
+Tool outputs or application-specific context
+
+The LLM then processes all of this information together and generates the response token by token.
+
+Simple Summary
+
+When we give a prompt to an AI tool, the actual input sent to the LLM may include both the user's prompt and additional invisible context added by the application. The model then generates the output token by token.
