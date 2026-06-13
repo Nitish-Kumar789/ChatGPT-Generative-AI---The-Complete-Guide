@@ -1,0 +1,26 @@
+Building Automated AI Workflows
+
+In traditional automation, we usually define the exact steps that need to be executed.
+
+In AI-powered workflows and agents, we often focus more on defining the goal, while the AI helps determine the actions needed to achieve that goal.
+
+In this section, we will explore:
+
+Auto-GPT for goal-oriented AI agents.
+LangChain for building custom AI workflows and agents.
+
+Topics may include:
+
+Defining goals and tasks for AI agents.
+Connecting AI models with tools and external services.
+Building multi-step workflows.
+Automating complex processes using AI.
+Important Note
+
+"Here we have to just define the goal, not the steps"
+
+This is partially true for autonomous agents such as Auto-GPT, where the agent can plan intermediate steps itself. However, in many AI workflow frameworks (including LangChain), developers still define some or all of the workflow logic, tools, and constraints.
+
+Simple Summary
+
+In this section, we will learn how to build AI-powered workflows and agents. We will explore Auto-GPT for goal-driven automation and LangChain for creating custom AI workflows that combine LLMs, tools, memory, and external services.
