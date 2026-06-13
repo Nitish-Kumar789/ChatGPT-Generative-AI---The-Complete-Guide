@@ -1,0 +1,19 @@
+Fixing Errors with GitHub Copilot Chat
+
+Select the code snippet that contains the error or needs improvement.
+Open GitHub Copilot Chat or use the Copilot actions available in the editor.
+Ask Copilot to fix the selected code, or use the "Fix with Copilot" option if available.
+Copilot will analyze the code and suggest a corrected version.
+Review the suggested fix to ensure it meets your requirements.
+If the suggestion looks correct, accept and apply the changes.
+
+This can be useful for:
+
+Syntax errors
+Logic bugs
+Runtime issues
+Code improvements
+Refactoring opportunities
+Simple Summary
+
+Select the code that needs fixing, use GitHub Copilot's Fix feature or ask Copilot Chat to resolve the issue, review the suggested solution, and accept it if it is correct.
