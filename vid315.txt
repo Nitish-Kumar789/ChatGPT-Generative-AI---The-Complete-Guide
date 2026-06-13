@@ -1,0 +1,14 @@
+The Starting Project Setup
+
+In this section, we will set up a React project.
+
+First, install the latest LTS (Long-Term Support) version of Node.js.
+Open the project folder in the terminal.
+Install the project dependencies:
+npm install
+Start the development server:
+npm run dev
+The terminal will display a local URL (e.g., http://localhost:5173).
+Open the URL in your browser to view the application.
+You should see the initial webpage running successfully.
+There are many improvements and changes that can be implemented in this project, which we will explore in the following sections.
