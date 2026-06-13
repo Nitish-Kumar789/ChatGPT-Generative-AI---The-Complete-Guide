@@ -1,0 +1,19 @@
+Generating (Dummy) Data with Cursor
+
+Create a new file (for example, a CSV file) where you want the dummy data to be generated.
+Open the file in Cursor.
+Press Ctrl/Cmd + K to open the inline AI generation feature.
+Enter a prompt describing the type of dummy data you need.
+Cursor will generate sample data based on your prompt and insert it into the file.
+
+Example prompts:
+
+"Generate 100 rows of customer data in CSV format."
+"Create dummy employee records with name, email, department, and salary."
+"Generate sample e-commerce order data."
+
+Review the generated data and modify it if necessary.
+
+Simple Summary
+
+Create a CSV (or other data file), press Ctrl/Cmd + K, describe the dummy data you need, and Cursor will generate sample data directly inside the file.
