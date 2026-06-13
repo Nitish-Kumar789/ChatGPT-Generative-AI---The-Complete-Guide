@@ -7,7 +7,7 @@ Pressing the Tab key (or the configured accept key) accepts the suggestion and i
 
 Another way to use Copilot is:
 
-Open the Code Completions or Copilot Suggestions panel.
+Open the GitHub Copilot: open completions panel.
 Review multiple suggested implementations.
 Choose the most suitable suggestion.
 Click Accept (or use the keyboard shortcut) to insert the selected code.

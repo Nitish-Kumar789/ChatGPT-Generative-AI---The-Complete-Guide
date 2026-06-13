@@ -1,0 +1,31 @@
+Copilot "Prompt Engineering": Triggering Completions via Variable Names
+
+
+Copilot "Prompt Engineering": Triggering Completions via Variable Names, Comments, and Context
+
+GitHub Copilot generates suggestions based on the code, comments, variable names, and surrounding context in your file.
+Simply placing the cursor in a file may not always trigger a useful suggestion.
+If no suggestion appears, start writing code, a function name, a variable name, or a comment describing what you want to build.
+Copilot will use this context to generate more relevant completions.
+
+Sometimes the suggested code may not match your requirements.
+
+In that case:
+
+Provide more context through meaningful variable names and function names.
+Write descriptive comments explaining the desired behavior.
+Implement part of the code manually.
+Refine the code structure to guide Copilot toward better suggestions.
+
+The clearer the context you provide, the more likely Copilot is to generate the desired code.
+
+Example
+// Calculate total price after applying discount
+function calculateFinalPrice(price, discountPercentage) {
+
+This gives Copilot much more context than:
+
+function test() {
+Key Takeaway
+
+GitHub Copilot can be "prompted" through code. Better variable names, function names, comments, and partial implementations usually lead to better suggestions.
