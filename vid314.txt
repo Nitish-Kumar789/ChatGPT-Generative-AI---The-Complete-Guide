@@ -1,0 +1,8 @@
+Using GitHub Copilot with VS Code
+
+Install Visual Studio Code.
+Open the Extensions Marketplace in VS Code.
+Search for GitHub Copilot and install the extension.
+Sign in with your GitHub account when prompted.
+If you have access to GitHub Copilot (subscription, trial, or eligible plan), the extension will be activated.
+Once enabled, Copilot will provide code suggestions directly in your editor.
