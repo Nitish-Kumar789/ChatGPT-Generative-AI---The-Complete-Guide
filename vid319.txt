@@ -1,0 +1,20 @@
+GitHub Copilot & Comment-Based Prompting
+
+When writing code from scratch, we can use comments to guide GitHub Copilot.
+
+Write a clear and descriptive comment explaining what the code should do.
+GitHub Copilot uses the comment as context to understand the intended functionality.
+Based on the comment, it can generate relevant code suggestions.
+The more specific the comment, the better the generated code is likely to be.
+
+This technique is similar to prompt engineering, where the comment acts as a prompt for Copilot.
+
+Example
+// Create a function that fetches user data from an API
+// and returns the response as JSON
+
+After writing the comment, Copilot may automatically suggest the implementation.
+
+Key Takeaway
+
+Comments can act as prompts for GitHub Copilot. Clear and descriptive comments help Copilot understand your intent and generate better code suggestions.
