@@ -1,0 +1,23 @@
+Important: AI Tools & Privacy / Data Sharing
+
+When using AI-powered developer tools for:
+
+Code generation
+Debugging
+Refactoring
+Code explanation and understanding
+
+it is important to remember that you may be sharing parts of your code, prompts, or project context with the tool provider.
+
+Therefore:
+
+Always review the privacy policy and data handling practices of the vendor.
+Understand what data is collected, stored, or used for model improvement.
+Be cautious when sharing proprietary, confidential, or sensitive code.
+Follow your organization's security and compliance guidelines.
+
+Different tools and subscription plans may have different data retention and training policies, so it is important to verify them before use.
+
+Key Takeaway
+
+AI coding tools can greatly improve productivity, but developers should always understand how their code and data are handled by the tool provider and review the privacy policy before using them with sensitive projects.
