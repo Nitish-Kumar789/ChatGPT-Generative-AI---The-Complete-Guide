@@ -1,0 +1,25 @@
+For building AI Automations or AI Agents, there are many frameworks and platforms available. The choice depends on the requirements, complexity, scalability, and level of customization needed.
+
+No-Code / Low-Code Platforms
+
+n8n
+Gumloop
+Flowise
+Trixe AI
+And many others
+
+These platforms allow users to build AI-powered workflows and agents with little or no programming.
+
+Code-Based Frameworks
+
+Custom Code (Python, JavaScript, etc.)
+LangChain & LangGraph
+PydanticAI
+CrewAI
+Agno
+Vercel AI SDK
+And many others
+
+These frameworks provide greater flexibility and control for building advanced AI automations and agents.
+
+Summary: There is no single best tool for building AI automations or agents. The right choice depends on the project's requirements, technical expertise, and desired level of customization.
