@@ -1,0 +1,27 @@
+What is AutoGPT?
+
+AutoGPT is an autonomous AI agent framework where the user primarily defines a goal, and the agent attempts to plan and execute the steps needed to achieve that goal.
+
+The user provides a high-level objective.
+AutoGPT breaks the objective into smaller tasks.
+It can reason about what actions to take next.
+It can use tools to gather information and perform tasks.
+Depending on its configuration, it may have access to the internet, files, APIs, databases, or other external tools.
+It can execute multiple steps automatically with limited human intervention.
+Example
+
+Goal:
+
+"Research the latest AI trends and create a summary report."
+
+AutoGPT may:
+
+Search for recent AI news.
+Collect relevant information.
+Summarize the findings.
+Generate a report.
+Key Idea
+
+Traditional automation: You define the steps.
+
+AutoGPT: You primarily define the goal, and the agent attempts to determine and execute the steps required to achieve it.**
