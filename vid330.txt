@@ -1,0 +1,18 @@
+Using Cursor's Automatic Error Fixing Feature
+
+When Cursor detects an error, warning, or issue in the code, it often provides contextual actions near the highlighted code.
+You can hover over the error or problematic code to view details about the issue.
+Cursor may offer AI-powered suggestions to explain or fix the problem.
+You can open the chat and ask Cursor to analyze the error and generate a fix.
+Review the suggested changes and apply them if they are appropriate.
+
+This feature can help with:
+
+Syntax errors
+Type errors
+Runtime issues
+Code improvements
+Refactoring suggestions
+Simple Summary
+
+If there is an issue in the code, hover over the highlighted error to see details. Cursor can explain the problem and suggest fixes through its AI features, allowing you to quickly resolve coding issues.
