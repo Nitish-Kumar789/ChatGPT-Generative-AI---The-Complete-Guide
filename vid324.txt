@@ -1,0 +1,20 @@
+Generating Code with GitHub Copilot Chat
+
+If a part of the code is missing or you need help implementing a feature, you can use GitHub Copilot Chat.
+Describe the functionality you want, or provide the existing code as context.
+Copilot Chat will generate a code snippet or implementation based on your prompt.
+Review the generated code and insert it into the appropriate location in your project.
+
+You can also:
+
+Generate new functions.
+Complete partially written code.
+Create API calls.
+Generate tests.
+Implement UI components.
+
+The more context you provide, the more accurate the generated code is likely to be.
+
+Simple Summary
+
+If you need help with a missing or incomplete piece of code, you can ask GitHub Copilot Chat to generate it. After reviewing the suggestion, you can insert the generated code into your project.
