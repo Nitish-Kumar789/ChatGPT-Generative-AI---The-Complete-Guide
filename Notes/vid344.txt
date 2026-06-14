@@ -1,0 +1,12 @@
+what is LangChain? 
+
+LangChain is a framework for building AI-powered applications, workflows, and agents using Large Language Models (LLMs).
+
+It helps developers connect LLMs with tools, APIs, databases, memory, and external services.
+It can be used to build AI automations, chatbots, RAG applications, and autonomous agents.
+LangChain provides abstractions and components that simplify the development of complex AI workflows.
+It is under active development, with new features and updates being released regularly.
+Using LangChain effectively typically requires some programming knowledge, especially in Python or JavaScript.
+Simple Summary
+
+LangChain is a developer framework for building AI applications, automations, and agents. It provides tools for connecting LLMs with external resources and generally requires coding skills to use effectively
