@@ -1,0 +1,19 @@
+Module Summary
+
+In this module, we learned about AI automation and agent development using tools such as:
+
+Auto-GPT
+LangChain
+
+Key topics covered:
+
+Understanding AI-powered automation and agents.
+Using AutoGPT to create goal-driven autonomous workflows.
+Setting up and configuring AutoGPT.
+Building AI workflows with LangChain.
+Creating prompt templates and AI tools.
+Using agents and tools for task automation.
+Understanding how LLMs, tools, memory, and workflows work together.
+Simple Summary
+
+In this module, we explored AutoGPT and LangChain, two popular frameworks for building AI-powered automations and agents. We learned how to configure them, connect them with LLMs and tools, and create workflows that can automate complex tasks.
