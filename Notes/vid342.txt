@@ -1,0 +1,24 @@
+Using AutoGPT for AI Automation
+
+AutoGPT can be used to automate tasks by defining a goal and allowing the agent to plan and execute actions toward that goal.
+It can perform multi-step tasks using available tools, internet access, files, and other resources (depending on configuration).
+AutoGPT may request user approval or manual intervention before executing certain actions, especially when confirmation is required.
+By observing how AutoGPT plans and executes tasks, users can gain a better understanding of how AI agents operate.
+
+Small Correction:
+
+"you can easily see thoughts, reasoning, plan, criticism"
+
+Modern AI systems generally do not expose their full internal chain of thought or reasoning process. However, AutoGPT may display:
+
+Goals
+Plans
+Proposed actions
+Self-evaluation or reflections
+Task progress
+
+These are summaries of the agent's process rather than its complete internal reasoning.
+
+Simple Summary
+
+AutoGPT allows users to automate multi-step tasks by providing a goal. It can create plans, perform actions, use tools, and sometimes request manual approval. Watching its planning and execution process can help users understand how AI agents work.
