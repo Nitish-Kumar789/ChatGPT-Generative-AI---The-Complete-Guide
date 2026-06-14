@@ -1,0 +1,23 @@
+LangChain – First Steps
+
+Before using LangChain, you typically need access to an LLM provider and its API key (such as OpenAI or another supported provider).
+Configure the API key in your environment variables or application settings.
+Install LangChain and any required provider-specific packages.
+Create an LLM instance and start building workflows, chains, agents, or RAG applications.
+
+Compared to building everything from scratch:
+
+LangChain provides reusable components and abstractions.
+It simplifies the integration of LLMs, tools, memory, databases, and external APIs.
+It makes it easier to create AI-powered workflows and automations.
+Small Correction
+
+"using langchain, its a bit easy to create a automation workflow"
+
+A more accurate statement is:
+
+LangChain provides building blocks that simplify the development of AI workflows and automations, although it still requires programming knowledge.
+
+Simple Summary
+
+Just like AutoGPT, LangChain usually requires an API key for an LLM provider. LangChain makes it easier to build AI workflows by providing reusable components for models, tools, memory, and agent orchestration.
