@@ -1,0 +1,17 @@
+Installing LangChain
+
+Open an IDE such as Visual Studio Code.
+Create and activate a Python virtual environment (venv).
+Open the terminal inside the project folder.
+Install LangChain using pip:
+pip install langchain
+Once installed, you can start building AI applications and workflows using LangChain.
+
+Note:
+
+LangChain supports both Python and JavaScript/TypeScript.
+Many developers prefer Python because the ecosystem is mature, there are many examples available, and the documentation and community resources are extensive.
+However, JavaScript/TypeScript is also a valid choice, especially for web-focused applications.
+Simple Summary
+
+Create a Python virtual environment, open the terminal, run pip install langchain, and start building AI workflows. Python is often preferred because of its rich AI ecosystem and extensive documentation.
