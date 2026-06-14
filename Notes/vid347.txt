@@ -1,0 +1,26 @@
+Creating a First AI Tool with LangChain
+
+LangChain allows you to create prompt templates that contain instructions and placeholders for input variables.
+You can define a prompt and dynamically inject user input into the template.
+The completed prompt is then sent to the configured LLM.
+Since LangChain is connected to an LLM provider through an API key, it can send requests to the model and receive generated responses.
+The response can then be displayed to the user or used in a larger workflow.
+
+Example flow:
+
+Create a prompt template.
+Accept user input.
+Insert the input into the template.
+Send the prompt to the LLM.
+Receive and return the generated response.
+Small Correction
+
+"since langchain have access to llm api key, will Generate beautiful response"
+
+A more accurate statement is:
+
+Since LangChain is configured with an LLM provider and API key, it can send prompts to the model and return the generated response.
+
+Simple Summary
+
+LangChain lets you create prompt templates with input variables. After receiving user input, it fills the template, sends the prompt to an LLM through the configured API, and returns the generated response.
